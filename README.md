@@ -1,2 +1,2 @@
 # Memory-Cards
-Memo cards
+a fun memorization game.
