@@ -1,2 +1,5 @@
 # Memory-Cards
-a fun memorization game.
+-  A Baseline little project that includes,
+-  HTML, CSS, Javascript project. From time to time i build small manageable projects.
+-  Idea is to treat it as a living thing that improves over time.
+-  Written mostly to reconsildate knowledge.
